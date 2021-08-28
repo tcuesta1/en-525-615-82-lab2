@@ -1,0 +1,9 @@
+# JHU EN-525-615 Lab 2
+
+This repository contains the Lab 2 assignment material for the course.
+
+TIP: After all the assignments have been receive this repository will contain reference solutions to the lab
+
+== Quick Links
+
+* link:docs/lab2.adoc[Lab 2 Assignment]
