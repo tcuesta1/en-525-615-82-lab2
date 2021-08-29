@@ -20,7 +20,7 @@ WARNING:  This is the first revision of this lab. There may be _some_ bugs.  Ask
 
 Now that you have a GitHub Account, you can accept the GitHub Classroom Assignment for this Lab.
 
-The GitHub Classroom Assignment for this Lab can be found here: https://classroom.github.com/a/X7xQGNPZ
+The GitHub Classroom Assignment for this Lab can be found here: https://classroom.github.com/a/cCwpj1wL
 
 
 === Clone the Lab 2 Git Repository
